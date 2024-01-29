@@ -1,6 +1,6 @@
 
-OS: Windows
-언어: C#
+OS: Windows \
+언어: C# \
 framework: winform
 
 
